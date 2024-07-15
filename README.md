@@ -7,7 +7,7 @@ QQ：315175176 秋风
 
 一、QFRemoteDataSet三层控件使用说明目录结构：  
 QFRemoteDataSet  
-|----Client_demo  //客户端Demo  
+|----Client_json  //客户端Demo  
 |----Components   //QFRemoteDataSet客户端控件  
 |----server       //服务端  
 |----RealThinClientSDK_v952  
