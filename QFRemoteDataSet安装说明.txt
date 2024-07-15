@@ -1,0 +1,50 @@
+QFRemoteDataSet三层控件使用说明
+
+QFRemoteDataSet
+   |
+   |----Client_demo
+   |----Components
+   |----server
+   |----RealThinClientSDK_v952
+   
+一、需要安装的支持控件：
+1、RealThinClient SDK-->RealThinClientSDK_v952\Lib\rtcsdk_fpc.lpk
+2、unidac-->unidac10,pgprovide10,myprovider10,msprovide10
+3、QFRemoteDataSet-->Components\QFRemoteDataSetPack.lpk
+
+二、QFRemoteDataSet
+QFRemoteDataSetPack封装了TQFRemoteConnection、TQFRemoteTable、TQFRemoteQuery和TQFRemoteStoredProc等4个控件：
+1.QFRemoteConnection连接控件
+  QFRemoteConnection.SecureKey//连接密码，要与服务端的连接匹配
+  QFRemoteConnection.Server_ip//服务端IP
+  QFRemoteConnection.Server_port//服务端端口号，如在linux运行，建议要>1024
+  QFRemoteConnection.DateTime:TDateTime;//取服务端的时间
+  QFRemoteConnection.GeneratorID:string;//取服务端用雪花算法生成的唯一ID
+  QFRemoteConnection.FileUpload(const filename:string):Boolean;//上传文件到服务端的upload文件夹
+  QFRemoteConnection.FileDownload(filename, path: string):Boolean;//从服务端download文件夹下载指定文件
+
+
+2.TQFRemoteTable支持分页功能
+  QFRemoteTable1.KeyFields//主键,数据更新时如果主键空时不能保存更新
+  QFRemoteTable1.TableName//表名
+  QFRemoteTable1.DataPagination;//=true数据分页
+  QFRemoteTable1.ApplyUpdates;//将数据提交到服务端的数据库
+  QFRemoteTable1.PageSize//数据页的大小
+  QFRemoteTable1.FirstPage;
+  QFRemoteTable1.PriorPage;
+  QFRemoteTable1.NextPage;
+  QFRemoteTable1.LastPage;
+
+3.TQFRemoteQuery
+  TQFRemoteQuery.KeyFields//主键,数据更新时如果主键空时不能保存更新
+  TQFRemoteQuery.SQL//SQL语句
+
+三、数据库：
+    数据库可以选择MSSQL2000、MySQL和PostgreSQL，中间件已适配这3种数据库，其中MSSQL为支持分页，表需添加ID字段。
+如果服务端在Linux运行，建议使用MySQL和PostgreSQL，因unidac不支持linux aarch64 for SQLite，所以数据库没选择SQLite。
+
+四、服务端：
+  打开server\server.lpr编译就可以，服务端需要RealThinClient SDK和UNIDAC。
+
+五、客户端Demo：
+   打开Client_demo\Clien.lpr。

@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="QFServer.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="5"/>
+        <CursorPos Y="25"/>
+        <UsageCount Value="210"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="QFRemoteDataSet.DBPool.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="26" Y="176"/>
+        <UsageCount Value="216"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="QFServerMainFrm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="ServerMainFrm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="606"/>
+        <CursorPos X="75" Y="627"/>
+        <UsageCount Value="215"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="QFRemoteDataSet.DataModule.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="QFDataModule"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="59"/>
+        <CursorPos X="66" Y="24"/>
+        <UsageCount Value="210"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="QFRemoteDataSet.Server.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="515"/>
+        <CursorPos X="63" Y="530"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="QFRemoteDataSet.Snowflake.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="106"/>
+        <CursorPos X="8" Y="127"/>
+        <UsageCount Value="202"/>
+      </Unit>
+      <Unit>
+        <Filename Value="QFRemoteDataSet.VerifyCode.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="81"/>
+        <CursorPos X="14" Y="105"/>
+        <UsageCount Value="202"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\dataset-serialize-master\src\dataset.serialize.pas"/>
+        <UnitName Value="DataSet.Serialize"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="91"/>
+      </Unit>
+      <Unit>
+        <Filename Value="QFdbdatamode.pas"/>
+        <ComponentName Value="QFdbdm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="12"/>
+      </Unit>
+      <Unit>
+        <Filename Value="QFServerFrm.pas"/>
+        <ComponentName Value="ServerMainFrm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="15" Y="602"/>
+        <UsageCount Value="95"/>
+      </Unit>
+      <Unit>
+        <Filename Value="db.unidm.pas"/>
+        <ComponentName Value="unidm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="18" Y="119"/>
+        <UsageCount Value="33"/>
+      </Unit>
+      <Unit>
+        <Filename Value="db.unidacpool.pas"/>
+        <UnitName Value="QFDBPool"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="127"/>
+        <CursorPos X="18" Y="149"/>
+        <UsageCount Value="32"/>
+      </Unit>
+      <Unit>
+        <Filename Value="DataModule.pas"/>
+        <ComponentName Value="unidm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="16"/>
+        <UsageCount Value="52"/>
+      </Unit>
+      <Unit>
+        <Filename Value="lazserver.pas"/>
+        <ComponentName Value="ServerFrm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="QFRDataSetServer"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="9" Y="10"/>
+        <UsageCount Value="111"/>
+      </Unit>
+      <Unit>
+        <Filename Value="QFSnowflake.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="17"/>
+        <CursorPos X="5" Y="34"/>
+        <UsageCount Value="98"/>
+      </Unit>
+      <Unit>
+        <Filename Value="DMUnit.pas"/>
+        <ComponentName Value="DataModule1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <UnitName Value="DataModuleUnit"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="16"/>
+        <UsageCount Value="43"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ServerUint.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="84"/>
+        <CursorPos X="19" Y="113"/>
+        <UsageCount Value="28"/>
+      </Unit>
+      <Unit>
+        <Filename Value="databasesetup.pas"/>
+        <ComponentName Value="Frm_DBSetup"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="DataBaseSetup"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="13"/>
+        <UsageCount Value="27"/>
+      </Unit>
+      <Unit>
+        <Filename Value="rtcDataSetChangeHelper.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="13"/>
+        <CursorPos X="84" Y="13"/>
+        <UsageCount Value="22"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\ccr\RealThinClientSDK_v930_2018Q4\Lib\rtcInfo.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="11916"/>
+        <CursorPos X="3" Y="11920"/>
+        <UsageCount Value="16"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\ccr\RealThinClientSDK_v930_2018Q4\Lib\rtcConn.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="6556"/>
+        <CursorPos X="3" Y="6558"/>
+        <UsageCount Value="17"/>
+      </Unit>
+      <Unit>
+        <Filename Value="serveru.pas"/>
+        <UnitName Value="ServerUuint"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="44" Y="4"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\ccr\RealThinClientSDK_v930_2018Q4\Lib\rtcSrvModule.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2690"/>
+        <CursorPos Y="2706"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\server - 副本\lazserver-.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="19"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\server - 副本\lazserver.pas"/>
+        <ComponentName Value="ServerFrm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Components\QFRemoteDataSet.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="319"/>
+        <CursorPos X="21" Y="319"/>
+        <UsageCount Value="13"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\ccr\RealThinClientSDK_v930_2018Q4\Lib\rtcSystem.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="941"/>
+        <CursorPos X="20" Y="950"/>
+        <UsageCount Value="6"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\lazarus\components\lazutils\lazutf8.pas"/>
+        <UnitName Value="LazUTF8"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3863"/>
+        <CursorPos Y="3877"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\lazarus\lcl\include\customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="909"/>
+        <CursorPos Y="922"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="QFDBPool.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="25" Y="8"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="QFdbdm.pas"/>
+        <ComponentName Value="QFdbdm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <UnitName Value="QFdbdatamode"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="18"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\lazarus\lcl\include\application.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="221"/>
+        <CursorPos X="3" Y="223"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\ccr\RealThinClientSDK_v952\Lib\rtcConn.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="8654"/>
+        <CursorPos Y="8665"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\lazarus\lcl\lresources.pp"/>
+        <UnitName Value="LResources"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3144"/>
+        <CursorPos Y="3153"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="QFRemoteDataSet.DataModule.lfm"/>
+        <EditorIndex Value="4"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <EditorIndex Value="3"/>
+          <TopLine Value="16"/>
+        </ExtraEditor1>
+        <UsageCount Value="4"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\lazarus\components\lazutils\dynamicarray.pas"/>
+        <UnitName Value="DynamicArray"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="50"/>
+        <CursorPos Y="63"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\lazarus\lcl\grids.pas"/>
+        <UnitName Value="Grids"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10318"/>
+        <CursorPos Y="10331"/>
+        <UsageCount Value="6"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\loong\fpcupdeluxe\fpcsrc\compiler\x86\agx86att.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="611"/>
+        <CursorPos X="24" Y="625"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\loong\fpcupdeluxe\fpcsrc\compiler\systems\t_linux.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="271"/>
+        <CursorPos X="44" Y="274"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\ccr\RealThinClientSDK_v930_2018Q4\Lib\rtcConnProv.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="206"/>
+        <CursorPos X="21" Y="211"/>
+        <UsageCount Value="15"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\packages\fcl-db\src\base\fields.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="958"/>
+        <CursorPos X="18" Y="970"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="QFServerMainFrm.lfm"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="801"/>
+        <CursorPos Y="817"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\ccr\RealThinClientSDK_v930_2018Q4\Lib\rtcDataSrv.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2405"/>
+        <CursorPos X="3" Y="2407"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\ccr\RealThinClientSDK_v930_2018Q4\Examples\DataProviders\rtcPHP.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="111"/>
+        <CursorPos X="22" Y="122"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\ccr\RealThinClientSDK_v930_2018Q4\Lib\rtcDB.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="876"/>
+        <CursorPos X="3" Y="876"/>
+        <UsageCount Value="6"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\ccr\RealThinClientSDK_v952\Lib\rtcDataSrv.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3454"/>
+        <CursorPos Y="3468"/>
+        <UsageCount Value="2"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\ccr\UniDAC9.3.0\Source\DacGui.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="11"/>
+        <CursorPos X="3" Y="24"/>
+        <UsageCount Value="5"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\rtl\objpas\classes\streams.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="957"/>
+        <CursorPos X="7" Y="966"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1102"/>
+        <CursorPos X="14" Y="1115"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\lazarus\lcl\include\rasterimage.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="736"/>
+        <CursorPos Y="749"/>
+        <UsageCount Value="16"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\lazarus\lcl\graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="453"/>
+        <CursorPos X="13" Y="468"/>
+        <UsageCount Value="15"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\packages\fcl-base\src\base64.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="33"/>
+        <CursorPos X="3" Y="33"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\ccr\RealThinClientSDK_v952\Lib\rtcInfo.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5583"/>
+        <CursorPos X="11" Y="5605"/>
+        <UsageCount Value="26"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\lazarus\lcl\include\canvas.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1355"/>
+        <CursorPos X="3" Y="1365"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\lazarus\lcl\include\intfbaselcl.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="217"/>
+        <CursorPos X="3" Y="220"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\ccr\lazreport\source\lr_class.pas"/>
+        <UnitName Value="LR_Class"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="363"/>
+        <CursorPos X="14" Y="375"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\ccr\lazreport\source\lr_utils.pas"/>
+        <UnitName Value="LR_Utils"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1080"/>
+        <CursorPos X="24" Y="1104"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\lazarus\lcl\include\intfbasewinapi.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="880"/>
+        <CursorPos X="3" Y="882"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\rtl\linux\system.pp"/>
+        <UnitName Value="System"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="468"/>
+        <CursorPos X="3" Y="470"/>
+        <UsageCount Value="13"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\packages\libpng\src\png.pp"/>
+        <UnitName Value="PNG"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="616"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\packages\fcl-image\src\fpimage.pp"/>
+        <UnitName Value="FPImage"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="43"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\lazarus\lcl\extctrls.pp"/>
+        <UnitName Value="ExtCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="558"/>
+        <CursorPos X="3" Y="586"/>
+        <UsageCount Value="29"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="976"/>
+        <CursorPos X="11" Y="1002"/>
+        <UsageCount Value="13"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\rtl\linux\ossysc.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="7"/>
+        <CursorPos X="10" Y="22"/>
+        <UsageCount Value="13"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3988"/>
+        <CursorPos Y="4002"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\packages\fcl-db\src\sqldb\postgres\pqconnection.pp"/>
+        <UnitName Value="PQConnection"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1640"/>
+        <CursorPos X="3" Y="1642"/>
+        <UsageCount Value="1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\packages\postgres\src\postgres3dyn.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="26"/>
+        <CursorPos X="5" Y="25"/>
+        <UsageCount Value="1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\rtl\inc\dynlibs.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="7"/>
+        <CursorPos X="3" Y="28"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\rtl\unix\sysdlh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2"/>
+        <CursorPos X="3" Y="28"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\packages\postgres\src\postgres3.pp"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="30" Y="16"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\packages\fcl-db\src\sqldb\sqldb.pp"/>
+        <UnitName Value="SQLDB"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="749"/>
+        <CursorPos X="5" Y="765"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\packages\fcl-db\src\base\db.pas"/>
+        <UnitName Value="DB"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="881"/>
+        <CursorPos X="3" Y="897"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\packages\fcl-db\src\base\database.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="29"/>
+        <CursorPos X="3" Y="31"/>
+        <UsageCount Value="1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\lazarus\lcl\forms\dblogdlg.pas"/>
+        <UnitName Value="DBLogDlg"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="122"/>
+        <CursorPos X="22" Y="143"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\packages\fcl-db\src\sqldb\sqldblib.pp"/>
+        <UnitName Value="SQLDBLib"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="13"/>
+        <UsageCount Value="1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\packages\fcl-db\src\sqldb\mysql\mysql57conn.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="75" Y="5"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\packages\fcl-db\src\sqldb\mysql\mysqlconn.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="304"/>
+        <CursorPos X="17" Y="317"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\packages\mysql\src\mysql.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1207"/>
+        <CursorPos X="7" Y="1720"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\packages\mysql\src\mysql80dyn.pp"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\packages\fcl-db\src\sqldb\mssql\mssqlconn.pp"/>
+        <UnitName Value="MSSQLConn"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="488"/>
+        <CursorPos X="35" Y="423"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\packages\dblib\src\dblib.pp"/>
+        <UnitName Value="DBLib"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="462"/>
+        <CursorPos X="3" Y="471"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\ccr\RealThinClientSDK_v952\Lib\rtcWinSocket.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="795"/>
+        <CursorPos Y="811"/>
+        <UsageCount Value="6"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\packages\fcl-db\examples\tsamytable.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="357"/>
+        <CursorPos X="49" Y="378"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\packages\aspell\src\aspelldyn.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="487"/>
+        <CursorPos X="35" Y="501"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\rtl\objpas\sysutils\sysstr.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2369"/>
+        <CursorPos X="3" Y="2381"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\rtl\win\sysutils.pp"/>
+        <UnitName Value="SysUtils"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="186"/>
+        <CursorPos X="17" Y="211"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="13"/>
+        <CursorPos X="54" Y="28"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\packages\fcl-db\src\sqldb\sqlite\sqlite3conn.pp"/>
+        <UnitName Value="SQLite3Conn"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1210"/>
+        <CursorPos X="3" Y="1221"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\packages\sqlite\src\sqlite3.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="134"/>
+        <CursorPos X="16" Y="149"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\ccr\zeoslib-8.0-patches\src\dbc\ZDbcIntfs.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4607"/>
+        <CursorPos Y="4622"/>
+        <UsageCount Value="11"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\ccr\zeoslib-8.0-patches\src\plain\ZPlainLoader.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="247"/>
+        <CursorPos Y="261"/>
+        <UsageCount Value="11"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\ccr\zeoslib-8.0-patches\src\component\ZTransaction.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="157"/>
+        <CursorPos Y="172"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\RealThinClientSDK_v952\Lib\rtcSystem.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2802"/>
+        <CursorPos X="3" Y="2817"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\packages\ptc\src\core\log.inc"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="29"/>
+        <CursorPos X="27" Y="44"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\RealThinClientSDK_v952\Lib\rtcThrPool.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="390"/>
+        <CursorPos X="28" Y="405"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\ccr\RealThinClientSDK_v952\Lib\rtcSystem.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2802"/>
+        <CursorPos X="3" Y="2817"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fpcsrc\rtl\win\wininc\ascdef.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="90"/>
+        <CursorPos X="10" Y="105"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\ccr\HTML Editor Library v4.5\Source\htcanvas.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="6168"/>
+        <CursorPos X="28" Y="6183"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\lazarus\ide\lazarus.pp"/>
+        <UnitName Value="Lazarus"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="QFRemoteDataSet.DBPool.pas"/>
+        <Caret Line="176" Column="26"/>
+      </Position>
+      <Position>
+        <Filename Value="QFRemoteDataSet.DataModule.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\fpcsrc\packages\ptc\src\core\log.inc"/>
+        <Caret Line="44" Column="34" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\fpcsrc\packages\ptc\src\core\log.inc"/>
+        <Caret Line="44" Column="27" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="QFServer.lpr"/>
+        <Caret Line="25"/>
+      </Position>
+      <Position>
+        <Filename Value="QFRemoteDataSet.Server.pas"/>
+        <Caret Line="139" Column="35" TopLine="131"/>
+      </Position>
+      <Position>
+        <Filename Value="QFRemoteDataSet.Server.pas"/>
+        <Caret Line="155" Column="42" TopLine="131"/>
+      </Position>
+      <Position>
+        <Filename Value="QFRemoteDataSet.Server.pas"/>
+        <Caret Line="164" Column="42" TopLine="134"/>
+      </Position>
+      <Position>
+        <Filename Value="QFRemoteDataSet.Server.pas"/>
+        <Caret Line="169" Column="18" TopLine="139"/>
+      </Position>
+      <Position>
+        <Filename Value="QFRemoteDataSet.Server.pas"/>
+        <Caret Line="170" Column="20" TopLine="140"/>
+      </Position>
+      <Position>
+        <Filename Value="QFRemoteDataSet.Server.pas"/>
+        <Caret Line="171" Column="30" TopLine="141"/>
+      </Position>
+      <Position>
+        <Filename Value="QFRemoteDataSet.Server.pas"/>
+        <Caret Line="200" Column="44" TopLine="170"/>
+      </Position>
+      <Position>
+        <Filename Value="QFRemoteDataSet.Server.pas"/>
+        <Caret Line="201" Column="47" TopLine="171"/>
+      </Position>
+      <Position>
+        <Filename Value="QFRemoteDataSet.Server.pas"/>
+        <Caret Line="202" Column="26" TopLine="172"/>
+      </Position>
+      <Position>
+        <Filename Value="QFRemoteDataSet.Server.pas"/>
+        <Caret Line="203" Column="18" TopLine="173"/>
+      </Position>
+      <Position>
+        <Filename Value="QFServerMainFrm.pas"/>
+        <Caret Line="357" Column="3" TopLine="336"/>
+      </Position>
+      <Position>
+        <Filename Value="QFServerMainFrm.pas"/>
+        <Caret Line="507" Column="101" TopLine="484"/>
+      </Position>
+      <Position>
+        <Filename Value="QFServerMainFrm.pas"/>
+        <Caret Line="630" Column="46" TopLine="606"/>
+      </Position>
+      <Position>
+        <Filename Value="QFServerMainFrm.pas"/>
+        <Caret Line="661" Column="10" TopLine="638"/>
+      </Position>
+      <Position>
+        <Filename Value="QFServerMainFrm.pas"/>
+        <Caret Line="662" Column="13" TopLine="639"/>
+      </Position>
+      <Position>
+        <Filename Value="QFServerMainFrm.pas"/>
+        <Caret Line="663" Column="104" TopLine="640"/>
+      </Position>
+      <Position>
+        <Filename Value="QFServerMainFrm.pas"/>
+        <Caret Line="129" Column="8" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="QFServerMainFrm.pas"/>
+        <Caret Line="507" Column="101" TopLine="484"/>
+      </Position>
+      <Position>
+        <Filename Value="QFRemoteDataSet.Server.pas"/>
+        <Caret Line="16" Column="45"/>
+      </Position>
+      <Position>
+        <Filename Value="QFRemoteDataSet.Server.pas"/>
+        <Caret Line="530" Column="63" TopLine="512"/>
+      </Position>
+      <Position>
+        <Filename Value="QFRemoteDataSet.Server.pas"/>
+        <Caret Line="804" Column="42" TopLine="786"/>
+      </Position>
+      <Position>
+        <Filename Value="QFRemoteDataSet.Server.pas"/>
+        <Caret Line="860" Column="44" TopLine="836"/>
+      </Position>
+      <Position>
+        <Filename Value="QFRemoteDataSet.Server.pas"/>
+        <Caret Line="530" Column="63" TopLine="515"/>
+      </Position>
+      <Position>
+        <Filename Value="QFRemoteDataSet.Server.pas"/>
+        <Caret Line="804" Column="42" TopLine="780"/>
+      </Position>
+      <Position>
+        <Filename Value="QFRemoteDataSet.Server.pas"/>
+        <Caret Line="860" Column="44" TopLine="836"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="..\Components\QFRemoteDataSet.pas"/>
+        <Line Value="591"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="QFRemoteDataSet.Server.pas"/>
+        <Line Value="834"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="QFRemoteDataSet.Server.pas"/>
+        <Line Value="828"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="QFRemoteDataSet.Server.pas"/>
+        <Line Value="777"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="QFRemoteDataSet.Server.pas"/>
+        <Line Value="884"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="QFRemoteDataSet.Server.pas"/>
+        <Line Value="816"/>
+      </Item>
+    </BreakPoints>
+    <Watches>
+      <Item>
+        <Expression Value="ablobwhere"/>
+      </Item>
+      <Item>
+        <Expression Value="sql"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TfrxReport Version="2023.1.3" DotMatrixReport="0" IniFile="tmp/fr6.ini" PreviewOptions.Buttons="167935" PreviewOptions.Zoom="1" PrintOptions.Printer="预设" PrintOptions.PrintOnSheet="0" ReportOptions.CreateDate="45194.4571776505" ReportOptions.Description.Text="" ReportOptions.LastChange="45194.656277037" ScriptLanguage="PascalScript" ScriptText.Text="begin&#10;&#10;end.">
+  <Datasets>
+    <item DataSet="frxUserDataSet1" DataSetName="frxUserDataSet1"/>
+  </Datasets>
+  <TfrxDataPage Name="Data" HGuides.Text="" VGuides.Text="" Height="1000" Left="0" Top="0" Width="1000"/>
+  <TfrxReportPage Name="Page1" HGuides.Text="" VGuides.Text="" PaperWidth="210" PaperHeight="297" PaperSize="9" LeftMargin="10" RightMargin="10" TopMargin="10" BottomMargin="10" ColumnWidth="0" ColumnPositions.Text="" Frame.Typ="0" MirrorMode="0">
+    <TfrxMasterData Name="MasterData1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Frame.Typ="0" Height="207.87415" Left="0" Top="18.89765" Width="718.1107" AllowSplit="1" Columns="2" ColumnWidth="377.952755905512" ColumnGap="0" DataSet="frxUserDataSet1" DataSetName="frxUserDataSet1" RowCount="0">
+      <TfrxMemoView Name="Memo1" AllowVectorExport="1" Left="7.55906" Top="11.33859" Width="343.93723" Height="181.41744" Font.Color="0" Font.Height="-13" Font.Name="Arial" Frame.Typ="15" Memo.Text="" ParentFont="0" Text=""/>
+      <TfrxMemoView Name="Memo2" AllowVectorExport="1" Left="30.23624" Top="26.45671" Width="117.16543" Height="30.23624" Font.Color="0" Font.Height="-13" Font.Name="宋体" Frame.Typ="0" Memo.Text="[frxUserDataSet1.&#34;a1&#34;]" ParentFont="0" Text="[frxUserDataSet1.&#34;a1&#34;]"/>
+      <TfrxMemoView Name="Memo3" AllowVectorExport="1" Left="30.23624" Top="83.14966" Width="117.16543" Height="30.23624" Font.Color="0" Font.Height="-13" Font.Name="宋体" Frame.Typ="0" Memo.Text="[frxUserDataSet1.&#34;A2&#34;]" ParentFont="0" Text="[frxUserDataSet1.&#34;A2&#34;]"/>
+      <TfrxMemoView Name="Memo4" AllowVectorExport="1" Left="26.45671" Top="136.06308" Width="117.16543" Height="30.23624" Font.Color="0" Font.Height="-13" Font.Name="宋体" Frame.Typ="0" Memo.Text="[frxUserDataSet1.&#34;A3&#34;]" ParentFont="0" Text="[frxUserDataSet1.&#34;A3&#34;]"/>
+      <TfrxMemoView Name="Memo5" AllowVectorExport="1" Left="170.07885" Top="26.45671" Width="117.16543" Height="30.23624" Font.Color="0" Font.Height="-13" Font.Name="宋体" Frame.Typ="0" Memo.Text="[frxUserDataSet1.&#34;A4&#34;]" ParentFont="0" Text="[frxUserDataSet1.&#34;A4&#34;]"/>
+      <TfrxMemoView Name="Memo6" AllowVectorExport="1" Left="170.07885" Top="83.14966" Width="117.16543" Height="30.23624" DisplayFormat.FormatStr="yyyy-mm-dd" DisplayFormat.Kind="fkDateTime" Font.Color="0" Font.Height="-13" Font.Name="宋体" Frame.Typ="0" Memo.Text="[frxUserDataSet1.&#34;A5&#34;]" ParentFont="0" Text="[frxUserDataSet1.&#34;A5&#34;]"/>
+      <TfrxMemoView Name="Memo7" AllowVectorExport="1" Left="170.07885" Top="136.06308" Width="117.16543" Height="30.23624" DisplayFormat.FormatStr="yyyy-mm-dd" DisplayFormat.Kind="fkDateTime" Font.Color="0" Font.Height="-13" Font.Name="宋体" Frame.Typ="0" Memo.Text="[frxUserDataSet1.&#34;A6&#34;]" ParentFont="0" Text="[frxUserDataSet1.&#34;A6&#34;]"/>
+    </TfrxMasterData>
+  </TfrxReportPage>
+</TfrxReport>

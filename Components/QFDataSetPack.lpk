@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Package Version="5">
+    <PathDelim Value="\"/>
+    <Name Value="QFDataSetPack"/>
+    <Type Value="RunAndDesignTime"/>
+    <AddToProjectUsesSection Value="True"/>
+    <Author Value="SZLBZ"/>
+    <CompilerOptions>
+      <Version Value="11"/>
+      <PathDelim Value="\"/>
+      <SearchPaths>
+        <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+      </SearchPaths>
+      <Linking>
+        <Debugging>
+          <DebugInfoType Value="dsStabs"/>
+        </Debugging>
+      </Linking>
+    </CompilerOptions>
+    <Description Value="QFDataSet Component
+秋风(QQ:315795176)"/>
+    <License Value="LGPL"/>
+    <Version Major="1"/>
+    <Files Count="4">
+      <Item1>
+        <Filename Value="QFDataSetPack.pas"/>
+        <UnitName Value="QFDataSetPack"/>
+      </Item1>
+      <Item3>
+        <Filename Value="QFDataSet.pas"/>
+        <HasRegisterProc Value="True"/>
+        <UnitName Value="QFDataSet"/>
+      </Item3>
+      <Item4>
+        <Filename Value="QFJsonDataSet.pas"/>
+        <HasRegisterProc Value="True"/>
+        <UnitName Value="QFJsonDataSet"/>
+      </Item4>
+    </Files>
+    <CompatibilityMode Value="True"/>
+    <RequiredPkgs Count="3">
+      <Item1>
+        <PackageName Value="lr_zeosdb"/>
+      </Item1>
+      <Item2>
+        <PackageName Value="rtcsdk_fpc"/>
+      </Item2>
+      <Item3>
+        <PackageName Value="LCL"/>
+      </Item3>
+    </RequiredPkgs>
+    <UsageOptions>
+      <UnitPath Value="$(PkgOutDir)"/>
+    </UsageOptions>
+    <PublishOptions>
+      <Version Value="2"/>
+    </PublishOptions>
+    <CustomOptions Items="ExternHelp" Version="2">
+      <_ExternHelp Items="Count"/>
+    </CustomOptions>
+  </Package>
+</CONFIG>

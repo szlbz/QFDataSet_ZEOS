@@ -1,0 +1,10 @@
+object QFDataModule: TQFDataModule
+  OnCreate = DataModuleCreate
+  OnDestroy = DataModuleDestroy
+  OldCreateOrder = False
+  Height = 726
+  HorizontalOffset = 390
+  VerticalOffset = 54
+  Width = 957
+  PPI = 168
+end
